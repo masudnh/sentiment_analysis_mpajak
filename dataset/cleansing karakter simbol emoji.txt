@@ -1,0 +1,7 @@
+cleansing karakter simbol emoji (jadikan spasi)
+cleansing huruf berulang
+hapus spasi berlebih
+casefolding
+tokenize
+formalisasi
+tokenize ulang
